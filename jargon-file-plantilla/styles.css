@@ -1,0 +1,30 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    background-color: deepskyblue;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-left: 50px;
+}
+
+h3 {
+background-color: azure;
+    color: grey;
+    text-decoration: underline;
+    padding-left: 10px;
+
+}
+
+pre {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold ;
+}
